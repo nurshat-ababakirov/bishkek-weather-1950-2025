@@ -25,7 +25,11 @@ The goal is to support evidence-based awareness on climate shifts using publicly
 ## File Structure
 
 ├── data/ # Source and cleaned weather datasets
+
 ├── notebooks/ # Jupyter notebooks for analysis and plotting
+
 ├── figures/ # Exported charts and visual outputs
+
 ├── scripts/ # Python scripts for data processing
+
 ├── README.md # Project overview and usage
